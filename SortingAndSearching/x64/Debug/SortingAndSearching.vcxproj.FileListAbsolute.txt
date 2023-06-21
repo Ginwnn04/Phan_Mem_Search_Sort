@@ -1,0 +1,6 @@
+D:\Save\Coding\SortingAndSearching\SortingAndSearching\x64\Debug\SortingAndSearching.vcxproj.AssemblyReference.cache
+D:\Save\Coding\SortingAndSearching\SortingAndSearching\x64\Debug\SortingAndSearching.vcxproj.SuggestedBindingRedirects.cache
+D:\Save\Coding\SortingAndSearching\SortingAndSearching\x64\Debug\SortingAndSearching.MyForm.resources
+D:\Save\Coding\SortingAndSearching\SortingAndSearching\x64\Debug\SortingAndSearching.vcxproj.GenerateResource.cache
+D:\Save\Coding\SortingAndSearching\SortingAndSearching\x64\Debug\SortingAndSearching.Search.resources
+D:\Save\Coding\SortingAndSearching\SortingAndSearching\x64\Debug\SortingAndSearching.Sort.resources

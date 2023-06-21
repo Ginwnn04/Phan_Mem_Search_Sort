@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+D:\Save\Coding\SortingAndSearching\SortingAndSearching\MyForm.cpp(11,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  SortingAndSearching.vcxproj -> D:\Save\Coding\SortingAndSearching\x64\Debug\SortingAndSearching.exe
