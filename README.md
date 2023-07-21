@@ -1,2 +1,2 @@
-![Mô tả ảnh](./demo.jpg)
+![Demo](./demo.png)
 
